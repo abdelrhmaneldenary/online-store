@@ -42,10 +42,6 @@ Mamno3aaat is more than just an online store—it's a scalable solution for the 
 9. **🔗 Social Media Integration**  
    Direct links to social media pages for better engagement.
 
-10. **🌗 Dark and Light Mode**  
-    - Toggle between dark and light themes for improved user experience.  
-    - Automatically adapts to system settings for user convenience.
-
 ---
 
 ## **💡 Additional Features**
@@ -79,10 +75,6 @@ Mamno3aaat is more than just an online store—it's a scalable solution for the 
 18. **🛠️ Modular and Scalable Architecture**  
     - Organized folder structure (`controllers`, `models`, `routes`, `middleware`, `config`) for maintainability and scalability.  
     - Separation of concerns ensures clean and modular code.
-
-19. **📑 API Documentation**  
-    - Comprehensive API structure with endpoints for products, users, orders, and cart functionality.  
-    - Easy-to-understand request and response patterns for developers.
 
 20. **📂 Configurable Environment**  
     - Centralized configuration management using `.env` for keys and sensitive data (e.g., MongoDB URI, API keys for payment gateways).
