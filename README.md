@@ -65,29 +65,18 @@ Mamno3aaat is more than just an online store—it's a scalable solution for the 
     - Manage orders for users and admins via `orderController.js` and `orderRoute.js`.  
     - Real-time order updates, including payment status and delivery progress.
 
-16. **🔄 Payment Gateway Integration**  
-    - Stripe and Razorpay payment processing via `orderController.js`.  
-    - Post-payment validation and refund processing.
-
-17. **👤 User Profile Management**  
+16. **👤 User Profile Management**  
     - Users can view and update their profiles through `userController.js` and `userRoute.js`.
 
-18. **🛠️ Modular and Scalable Architecture**  
-    - Organized folder structure (`controllers`, `models`, `routes`, `middleware`, `config`) for maintainability and scalability.  
-    - Separation of concerns ensures clean and modular code.
 
-
-19. **🔒 Data Validation and Security**  
+17. **🔒 Data Validation and Security**  
     - Input validation to ensure sanitized and secure data handling.  
     - Secure storage of sensitive user data like passwords (hashed) and payment information.
 
-20. **📊 Admin Dashboard Features**  
-    - Admins can manage products, view all orders, and update order statuses efficiently.
-
-21. **🛡️ Error Handling Middleware**  
+18. **🛡️ Error Handling**  
     - Centralized error handling for better debugging and user-friendly error messages.
 ---
-22.    **website hosting**
+19.    **website hosting**
 
 
 
