@@ -76,23 +76,18 @@ Mamno3aaat is more than just an online store—it's a scalable solution for the 
     - Organized folder structure (`controllers`, `models`, `routes`, `middleware`, `config`) for maintainability and scalability.  
     - Separation of concerns ensures clean and modular code.
 
-20. **📂 Configurable Environment**  
-    - Centralized configuration management using `.env` for keys and sensitive data (e.g., MongoDB URI, API keys for payment gateways).
 
-21. **🚀 Performance Optimization**  
-    - Efficient database queries and indexes using Mongoose models (`userModel.js`, `productModel.js`, `orderModel.js`).  
-    - Middleware for pre-processing requests to ensure smooth API performance.
-
-22. **🔒 Data Validation and Security**  
+19. **🔒 Data Validation and Security**  
     - Input validation to ensure sanitized and secure data handling.  
     - Secure storage of sensitive user data like passwords (hashed) and payment information.
 
-23. **📊 Admin Dashboard Features**  
+20. **📊 Admin Dashboard Features**  
     - Admins can manage products, view all orders, and update order statuses efficiently.
 
-24. **🛡️ Error Handling Middleware**  
+21. **🛡️ Error Handling Middleware**  
     - Centralized error handling for better debugging and user-friendly error messages.
 ---
+22.    **website hosting**
 
 
 
