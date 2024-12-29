@@ -77,6 +77,8 @@ Mamno3aaat is more than just an online store—it's a scalable solution for the 
     - Centralized error handling for better debugging and user-friendly error messages.
 ---
 19.    **website hosting**
+         user:https://online-store-frontend-o1uc.onrender.com/
+         admin:https://online-store-admin-6sd0.onrender.com/orders
 
 
 
